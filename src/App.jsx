@@ -395,7 +395,7 @@ function App() {
                 <FaEnvelope />
               </a>
               <a
-                href="https://instagram.com/devkinariwala"
+                href="https://www.instagram.com/dev_kinariwala/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -408,7 +408,7 @@ function App() {
                 <FaInstagram />
               </a>
               <a
-                href="https://facebook.com/devkinariwala"
+                href="https://www.facebook.com/dev.kinariwala.1/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -421,7 +421,7 @@ function App() {
                 <FaFacebook />
               </a>
               <a
-                href="https://www.linkedin.com/in/devkinariwala/"
+                href="https://www.linkedin.com/in/dev-kinariwala-6297b5280"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
